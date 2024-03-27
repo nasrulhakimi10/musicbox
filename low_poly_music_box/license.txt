@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly music box
+* source:	https://sketchfab.com/3d-models/low-poly-music-box-cf644075b00c4970ba9f5b5193701ab8
+* author:	JuanJG (https://sketchfab.com/JuanJanaG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly music box" (https://sketchfab.com/3d-models/low-poly-music-box-cf644075b00c4970ba9f5b5193701ab8) by JuanJG (https://sketchfab.com/JuanJanaG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
